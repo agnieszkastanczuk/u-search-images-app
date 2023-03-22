@@ -1,0 +1,19 @@
+.search-bar {
+    border: none;
+    border-radius: 2rem;
+    padding: 1rem;
+    background-color: #c8b1a4;
+    margin-bottom: 1.5rem;
+}
+
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+}
+
+.search-bar input{
+    border: none;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+}
