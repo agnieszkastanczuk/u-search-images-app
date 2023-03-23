@@ -1,6 +1,6 @@
 # My First React App - Search Your Image
 
-This is my first app created in React after watching and learning a lot of the topics from the six sections of the course - [Modern React with Redux](https://www.udemy.com/course/react-redux/).
+This is my first app created in React after watching and learning a lot of the topics from the five sections of the course - [Modern React with Redux](https://www.udemy.com/course/react-redux/).
 Thanks, Stephan!
 
 
